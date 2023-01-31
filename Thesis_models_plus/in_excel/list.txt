@@ -1,0 +1,19 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D425-2930
+
+ Directory of C:\Users\MACIEJ\OneDrive - Uniwersytet ¢dzki\Studia\semestr_7.1\Praca inzynierska\Thesis_models_plus
+
+09.01.2023  12:41    <DIR>          .
+09.01.2023  12:41    <DIR>          ..
+06.01.2023  16:29    <DIR>          in_excel
+09.01.2023  12:41                 0 list.txt
+08.01.2023  03:15           613ÿ370 Thesis_adam_140_epochs_128_64_32_50_1_windows_16_batch_64.ipynb
+06.01.2023  19:43           583ÿ448 Thesis_adam_140_epochs_128_64_32_50_1_windows_32_batch_128.ipynb
+09.01.2023  05:44           586ÿ706 Thesis_sgd_140_epochs_128_64_32_50_1_windows_16_batch_204.ipynb
+06.01.2023  20:16         (614ÿ044) Thesis_sgd_140_epochs_128_64_32_50_1_windows_32_batch_128_relu__MSE_AUC.ipynb
+08.01.2023  21:58          (85ÿ152) Thesis_sgd_140_epochs_256_128_64_100_1_windows_32_batch_128_relu_AUC (1).ipynb
+07.01.2023  15:53          (85ÿ424) Thesis_sgd_140_epochs_256_128_64_100_1_windows_32_batch_128_relu_AUC.ipynb
+07.01.2023  19:54           590ÿ778 Thesis_sgd_280_epochs_256_128_64_100_1_windows_4_batch_128.ipynb
+06.01.2023  16:30           639ÿ558 Thesis_sgd_375_epochs_256_128_64_100_1_windows_32_batch_128_MSE.ipynb
+               9 File(s)      3ÿ798ÿ480 bytes
+               3 Dir(s)  40ÿ384ÿ413ÿ696 bytes free
