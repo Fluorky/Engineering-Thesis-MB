@@ -9,11 +9,11 @@ The impact of the graphics card on the learning speed and the impact of the hard
 The practical part of the work was prepared in Python using the tensorflow library.
 
 
-Model was tested on this configurations:
+Neural network model was tested on this configurations:
 
-*MSI KATANA GF66 with Intel i7 11800H, 64GB RAM, Nvidia RTX 3060 6GB
+*MSI KATANA GF66 with Intel i7 11800H, 64GB RAM, Nvidia RTX 3060 6GB Windows 11 22H2
 
-*PC with Xeon X5-2667v2, 32GB RAM, RTX 3060 12GB
+*PC with Xeon X5-2667v2, 32GB RAM, RTX 3060 12GB Windows 10 22H2
 
-*Dell Wyse 5070 with Intel Pentium J5005 and 16GB RAM
+*Dell Wyse 5070 with Intel Pentium J5005 and 16GB RAM Windows 10 22H2
 
