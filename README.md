@@ -10,7 +10,10 @@ The practical part of the work was prepared in Python using the tensorflow libra
 
 
 Model was tested on this configurations:
+
 *MSI KATANA GF66 with Intel i7 11800H, 64GB RAM, Nvidia RTX 3060 6GB
+
 *PC with Xeon X5-2667v2, 32GB RAM, RTX 3060 12GB
+
 *Dell Wyse 5070 with Intel Pentium J5005 and 16GB RAM
 
