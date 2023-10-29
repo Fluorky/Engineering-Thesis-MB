@@ -8,6 +8,7 @@ Recursive neural networks of the GRU type were used. It was researched how the e
 The impact of the graphics card on the learning speed and the impact of the hardware configuration on the results were also reasearched. 
 The practical part of the work was prepared in Python using the tensorflow library.
 
+Thesis (polish version) with research and conclusions is in EngineeringThesis.pdf file.
 
 Neural network model was tested on this configurations:
 
